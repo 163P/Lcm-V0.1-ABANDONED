@@ -1,0 +1,22 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\bin\Debug\LcmFileM.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\bin\Debug\LcmFileM.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\bin\Debug\LcmFileM.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\obj\x86\Debug\LcmFileM.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\obj\x86\Debug\LcmFileM.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\obj\x86\Debug\LcmFileM.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\obj\x86\Debug\LcmFileM.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmFileM\obj\x86\Debug\LcmFileM.pdb
+F:\music\LCME.NET\LcmFileM\LcmFileM\obj\x86\Debug\LcmFileM.exe
+F:\music\LCME.NET\LcmFileM\LcmFileM\obj\x86\Debug\LcmFileM.xml
+F:\music\LCME.NET\LcmFileM\LcmFileM\obj\x86\Debug\LcmFileM.pdb
+F:\music\LCME.NET\LcmFileM\LcmFileM\bin\Debug\LcmFileM.exe
+F:\music\LCME.NET\LcmFileM\LcmFileM\bin\Debug\LcmFileM.pdb
+F:\music\LCME.NET\LcmFileM\LcmFileM\bin\Debug\LcmFileM.xml
+F:\music\LCME.NET\LcmFileM\LcmFileM\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\music\LCME.NET\LcmFileM\LcmFileM\obj\x86\Debug\LcmFileM.Form1.resources
+F:\music\LCME.NET\LcmFileM\LcmFileM\obj\x86\Debug\LcmFileM.Resources.resources
+F:\music\LCME.NET\LcmFileM\LcmFileM\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\music\LCME.NET\LcmFileM\LcmFileM\obj\x86\Debug\GenerateResource.write.1.tlog

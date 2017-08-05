@@ -1,0 +1,22 @@
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\bin\Release\LcmGUI.exe
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\bin\Release\LcmGUI.pdb
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\bin\Release\LcmGUI.xml
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\obj\x86\Release\LcmGUI.Main.resources
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\obj\x86\Release\LcmGUI.Main_MDI.resources
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\obj\x86\Release\LcmGUI.Resources.resources
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\obj\x86\Release\LcmGUI.PianoNote.resources
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\obj\x86\Release\LcmGUI.vbproj.GenerateResource.Cache
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\obj\x86\Release\LcmGUI.exe
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\obj\x86\Release\LcmGUI.xml
+C:\Users\XiaoXiong\AppData\Local\Temporary Projects\LcmGUI\obj\x86\Release\LcmGUI.pdb
+F:\music\LCME.NET\LcmGUI\LcmGUI\obj\x86\Release\LcmGUI.exe
+F:\music\LCME.NET\LcmGUI\LcmGUI\obj\x86\Release\LcmGUI.xml
+F:\music\LCME.NET\LcmGUI\LcmGUI\obj\x86\Release\LcmGUI.pdb
+F:\music\LCME.NET\LcmGUI\LcmGUI\bin\Release\LcmGUI.exe
+F:\music\LCME.NET\LcmGUI\LcmGUI\bin\Release\LcmGUI.pdb
+F:\music\LCME.NET\LcmGUI\LcmGUI\bin\Release\LcmGUI.xml
+F:\music\LCME.NET\LcmGUI\LcmGUI\obj\x86\Release\LcmGUI.Main.resources
+F:\music\LCME.NET\LcmGUI\LcmGUI\obj\x86\Release\LcmGUI.Main_MDI.resources
+F:\music\LCME.NET\LcmGUI\LcmGUI\obj\x86\Release\LcmGUI.Resources.resources
+F:\music\LCME.NET\LcmGUI\LcmGUI\obj\x86\Release\LcmGUI.PianoNote.resources
+F:\music\LCME.NET\LcmGUI\LcmGUI\obj\x86\Release\LcmGUI.vbproj.GenerateResource.Cache

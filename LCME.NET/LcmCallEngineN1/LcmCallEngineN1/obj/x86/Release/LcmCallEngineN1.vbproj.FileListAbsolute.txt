@@ -1,0 +1,16 @@
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\bin\Release\LcmCallEngineN1.exe
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\bin\Release\LcmCallEngineN1.pdb
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\bin\Release\LcmCallEngineN1.xml
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\obj\x86\Release\LcmCallEngineN1.Resources.resources
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\obj\x86\Release\LcmCallEngineN1.exe
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\obj\x86\Release\LcmCallEngineN1.xml
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\obj\x86\Release\LcmCallEngineN1.pdb
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\bin\Release\LcmNetDllV1.dll
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\bin\Release\LcmCallEngineN1.exe.manifest
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\bin\Release\LcmCallEngineN1.application
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\obj\x86\Release\LcmCallEngineN1.exe.manifest
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\obj\x86\Release\LcmCallEngineN1.application
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\bin\Release\MWArray.dll
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\bin\Release\MWArray.xml
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\obj\x86\Release\LcmCallEngineN1.vbproj.GenerateResource.Cache
+F:\music\LCME.NET\LcmCallEngineN1\LcmCallEngineN1\obj\x86\Release\LcmCallEngineN1.vbprojResolveAssemblyReference.cache

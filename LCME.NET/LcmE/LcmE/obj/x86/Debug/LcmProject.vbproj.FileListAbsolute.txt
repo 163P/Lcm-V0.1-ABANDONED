@@ -1,0 +1,11 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\bin\Debug\LcmProject.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\bin\Debug\LcmProject.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\bin\Debug\LcmProject.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\obj\x86\Debug\LcmProject.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\obj\x86\Debug\LcmProject.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\obj\x86\Debug\LcmProject.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\obj\x86\Debug\LcmProject.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\LcmProject\obj\x86\Debug\LcmProject.pdb

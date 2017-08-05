@@ -1,0 +1,12 @@
+F:\music\LCME.NET\LcmE\LcmE\bin\Debug\LcmE.exe
+F:\music\LCME.NET\LcmE\LcmE\bin\Debug\LcmE.pdb
+F:\music\LCME.NET\LcmE\LcmE\bin\Debug\LcmE.xml
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\LcmProject.EditorFrm.resources
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\LcmProject.MainFrm.resources
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\LcmProject.Resources.resources
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\LcmE.exe
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\LcmE.xml
+F:\music\LCME.NET\LcmE\LcmE\obj\x86\Debug\LcmE.pdb

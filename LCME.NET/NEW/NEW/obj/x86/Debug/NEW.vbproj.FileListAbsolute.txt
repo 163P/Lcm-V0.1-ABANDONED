@@ -1,0 +1,15 @@
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\music\LCME.NET\NEW\NEW\bin\Debug\NEW.pdb
+F:\music\LCME.NET\NEW\NEW\bin\Debug\NEW.xml
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\NEW.exe
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\NEW.xml
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\NEW.pdb
+F:\music\LCME.NET\NEW\NEW\bin\Debug\NEW.exe.manifest
+F:\music\LCME.NET\NEW\NEW\bin\Debug\NEW.application
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\NEW.exe.manifest
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\NEW.application
+F:\music\LCME.NET\NEW\NEW\obj\x86\Debug\WindowsApplication1.UserControl.resources

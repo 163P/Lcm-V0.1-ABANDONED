@@ -1,0 +1,12 @@
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\bin\Release\LcmCallEngineN2GUI.exe
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\bin\Release\LcmCallEngineN2GUI.pdb
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\bin\Release\LcmCallEngineN2GUI.xml
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\bin\Release\LcmNetDllV1.dll
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\obj\x86\Release\ResolveAssemblyReference.cache
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\obj\x86\Release\LcmCallEngineN2GUI.Main.resources
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\obj\x86\Release\LcmCallEngineN2GUI.Resources.resources
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\obj\x86\Release\GenerateResource.read.1.tlog
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\obj\x86\Release\GenerateResource.write.1.tlog
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\obj\x86\Release\LcmCallEngineN2GUI.exe
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\obj\x86\Release\LcmCallEngineN2GUI.xml
+F:\music\LCME.NET\LcmCallEngineN2GUI\LcmCallEngineN2GUI\obj\x86\Release\LcmCallEngineN2GUI.pdb

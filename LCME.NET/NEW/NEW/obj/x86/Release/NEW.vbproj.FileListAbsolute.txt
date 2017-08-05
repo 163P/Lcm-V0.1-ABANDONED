@@ -1,0 +1,16 @@
+F:\music\LCME.NET\NEW\NEW\bin\Release\NEW.exe
+F:\music\LCME.NET\NEW\NEW\bin\Release\NEW.pdb
+F:\music\LCME.NET\NEW\NEW\bin\Release\NEW.xml
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\ResolveAssemblyReference.cache
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\WindowsApplication1.Form1.resources
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\WindowsApplication1.Resources.resources
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\GenerateResource.read.1.tlog
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\GenerateResource.write.1.tlog
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\NEW.exe
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\NEW.xml
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\NEW.pdb
+F:\music\LCME.NET\NEW\NEW\bin\Release\NEW.exe.manifest
+F:\music\LCME.NET\NEW\NEW\bin\Release\NEW.application
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\NEW.exe.manifest
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\NEW.application
+F:\music\LCME.NET\NEW\NEW\obj\x86\Release\WindowsApplication1.UserControl.resources

@@ -1,0 +1,34 @@
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\bin\Debug\LcmCallEngineN3GUI.exe.config
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\bin\Debug\LcmCallEngineN3GUI.exe
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\bin\Debug\LcmCallEngineN3GUI.pdb
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\bin\Debug\LcmCallEngineN3GUI.xml
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.vbprojResolveAssemblyReference.cache
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\MainWindow.g.vb
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\Application.g.vb
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI_MarkupCompile.cache
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI_MarkupCompile.lref
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\MainWindow.baml
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.g.resources
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.Resources.resources
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.vbproj.GenerateResource.Cache
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.exe
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.xml
+C:\Users\a\AppData\Local\Temporary Projects\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.pdb
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\bin\Debug\LcmCallEngineN3GUI.exe.config
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.exe
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.xml
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.pdb
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\bin\Debug\LcmCallEngineN3GUI.exe
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\bin\Debug\LcmCallEngineN3GUI.pdb
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\bin\Debug\LcmCallEngineN3GUI.xml
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\bin\Debug\LcmNetDllV1.dll
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\bin\Debug\MWArray.dll
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.vbprojResolveAssemblyReference.cache
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\MainWindow.g.vb
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\Application.g.vb
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI_MarkupCompile.cache
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI_MarkupCompile.lref
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\MainWindow.baml
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.g.resources
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.Resources.resources
+E:\LcmCallEngineN3GUI\LcmCallEngineN3GUI\LcmCallEngineN3GUI\obj\Debug\LcmCallEngineN3GUI.vbproj.GenerateResource.Cache

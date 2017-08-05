@@ -1,0 +1,11 @@
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\bin\Debug\LcmPackaging.exe
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\bin\Debug\LcmPackaging.pdb
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\bin\Debug\LcmPackaging.xml
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\obj\x86\Debug\LcmPackaging.Form1.resources
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\obj\x86\Debug\LcmPackaging.Resources.resources
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\obj\x86\Debug\LcmPackaging.exe
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\obj\x86\Debug\LcmPackaging.xml
+F:\music\LCME.NET\LcmPackaging\LcmPackaging\obj\x86\Debug\LcmPackaging.pdb
